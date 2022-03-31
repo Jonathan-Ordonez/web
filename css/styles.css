@@ -1,0 +1,58 @@
+h1, p {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+}
+
+input {
+  text-align: center;
+  padding: 15px;
+}
+
+p, button, input {
+  text-align: center;
+  font-size: 2em;
+}
+
+body {
+  background-color: #1D2021;
+  text-align: center;
+}
+
+hr {
+  text-align: center;
+  width: 1000px;
+}
+
+a, i {
+  text-align: center;
+  font-size: 4em;
+  color: white;
+  margin: 20px;
+}
+
+button {
+  text-align: center;
+  background: #7b39cc;
+  color: white;
+  padding: 15px;
+  border: 0px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 20px;
+}
+
+button:active {
+  align-items: center;
+  background: #5e28a1;
+  -webkit-box-shadow: inset 0px 0px 5px #451c78;
+     -moz-box-shadow: inset 0px 0px 5px #451c78;
+          box-shadow: inset 0px 0px 5px #451c78;
+   outline: none;
+}
